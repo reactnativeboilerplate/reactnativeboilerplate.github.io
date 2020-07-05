@@ -12,8 +12,8 @@ module.exports = {
     General: ['documentation', 'general/commands', 'general/introduction', 'general/files', 'general/server-configs', 'general/deployment', 'general/debugging', 'general/faq', 'general/gotchas', 'general/remove', 'general/components'],
     Testing: ['testing/unit-testing', 'testing/component-testing', 'testing/remote-testing'],
     'Styling (CSS)': ['css/css'],
-    JS: ['js/js', 'js/redux', 'js/immer', 'js/reselect', 'js/redux-saga', 'js/remove', 'js/i18n', 'js/navigating', 'js/async-components' ],
+    JS: ['js/js', 'js/redux', 'js/immer', 'js/reselect', 'js/redux-saga', 'js/remove', 'js/i18n', 'js/navigating', 'js/async-components'],
     'Maintenance': ['maintenance/dependency'],
-    'Forks' : ['forks/forks']
+    'Forks': ['forks/forks']
   },
 };
